@@ -1,7 +1,8 @@
 # Arduino-LED-Controller
-LED Arduino controller, using Ultrasonic Sensor
+Author: Gerald Azichoba
 
-This simple project, uses an Arduino Uno, and an Ultrasonic sensor, to turn on an LED strip when it detects movement in front of the sensor.
+Description: A motion detection light system, controlled by an Ultrasonic Sensor, and programmed on an Arduino
+Real world Use case: Alarm systems, motion detected energy saving lightbulbs
 
 This system has five states, which are ordered as follows:
 
