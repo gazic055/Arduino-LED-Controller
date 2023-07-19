@@ -121,5 +121,4 @@ void loop() {
   }
 
   delay(500); // Delay for 3 second
-
 }
